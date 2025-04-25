@@ -1,8 +1,9 @@
-Social Media Engagement Analysis Dashboard
-Overview
+**Social Media Engagement Analysis Dashboard**
+
+**Overview**
 This project focuses on understanding user engagement across major social media platforms—YouTube, TikTok, Instagram, Twitter, and Facebook. By analyzing over 5,000 social media posts, this project aims to uncover trends in engagement, content preferences, and regional impact, empowering brands and content creators to make data-driven decisions about content strategy and digital marketing.
 
-Business Objective
+**Business Objective**
 To build an insightful and interactive Power BI dashboard that visualizes:
 
 Platform-specific trends
@@ -17,41 +18,42 @@ Regional activity
 
 The goal is to enable users to make data-driven decisions for enhancing their digital marketing strategies.
 
-Implementation
+**Implementation**
 Data Cleaning and Transformation
 Cleaned and transformed data from multiple platforms to prepare it for visualization.
 
-Power BI Dashboard Features
+**Power BI Dashboard Features**
 The Power BI dashboard includes the following key visualizations and metrics:
 
-Total Views: 12B
+- Total Views: 12B
 
-Total Likes: 1B
+- Total Likes: 1B
 
-Total Shares: 253M
+- Total Shares: 253M
 
-Total Comments: 124M
+- Total Comments: 124M
 
-Average Engagement Rate: 327K per post
+- Average Engagement Rate: 327K per post
 
-Platform-Level Insights
+  **Platform-Level Insights**
 Created KPI cards and bar/column charts to visualize platform-specific metrics.
 
-Regional Trends
+- Regional Trends
 Visualized regional dominance with:
 
-USA: 1.75B views
+- USA: 1.75B views
 
-Brazil and UK as top-engaging countries
+ - Brazil and UK as top-engaging countries
 
-Content Type Performance
+**Content Type Performance**
+
 Highlighted top-performing content types:
 
 Reels, Tweets, Posts (each with ~43M shares)
 
 Strong preference for short-form video content
 
-Engagement Distribution
+**Engagement Distribution**
 Categorized posts by engagement:
 
 1.7K posts with low engagement
@@ -60,7 +62,7 @@ Categorized posts by engagement:
 
 1.7K posts with high engagement
 
-Hashtag Influence
+**Hashtag Influence**
 Analyzed the most influential hashtags per platform:
 
 TikTok: #Dance, #Tech, #Comedy
@@ -71,7 +73,7 @@ Twitter: #Education, #Comedy
 
 YouTube: #Fitness, #Challenge
 
-Results
+**Results**
 The project provided actionable insights:
 
 YouTube emerged as the top performer in views and likes, followed by TikTok and Twitter.
