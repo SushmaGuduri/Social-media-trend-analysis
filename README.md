@@ -4,6 +4,7 @@
 This project focuses on understanding user engagement across major social media platforms—YouTube, TikTok, Instagram, Twitter, and Facebook. By analyzing over 5,000 social media posts, this project aims to uncover trends in engagement, content preferences, and regional impact, empowering brands and content creators to make data-driven decisions about content strategy and digital marketing.
 
 **Business Objective**
+
 To build an insightful and interactive Power BI dashboard that visualizes:
 
 Platform-specific trends
@@ -19,10 +20,12 @@ Regional activity
 The goal is to enable users to make data-driven decisions for enhancing their digital marketing strategies.
 
 **Implementation**
+
 Data Cleaning and Transformation
 Cleaned and transformed data from multiple platforms to prepare it for visualization.
 
 **Power BI Dashboard Features**
+
 The Power BI dashboard includes the following key visualizations and metrics:
 
 - Total Views: 12B
@@ -36,6 +39,7 @@ The Power BI dashboard includes the following key visualizations and metrics:
 - Average Engagement Rate: 327K per post
 
   **Platform-Level Insights**
+  
 Created KPI cards and bar/column charts to visualize platform-specific metrics.
 
 - Regional Trends
@@ -63,6 +67,7 @@ Categorized posts by engagement:
 1.7K posts with high engagement
 
 **Hashtag Influence**
+
 Analyzed the most influential hashtags per platform:
 
 TikTok: #Dance, #Tech, #Comedy
@@ -74,6 +79,7 @@ Twitter: #Education, #Comedy
 YouTube: #Fitness, #Challenge
 
 **Results**
+
 The project provided actionable insights:
 
 YouTube emerged as the top performer in views and likes, followed by TikTok and Twitter.
