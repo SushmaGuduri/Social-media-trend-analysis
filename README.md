@@ -3,6 +3,8 @@
 **Overview**
 This project focuses on understanding user engagement across major social media platforms—YouTube, TikTok, Instagram, Twitter, and Facebook. By analyzing over 5,000 social media posts, this project aims to uncover trends in engagement, content preferences, and regional impact, empowering brands and content creators to make data-driven decisions about content strategy and digital marketing.
 
+"C:\Users\sushm\Pictures\Screenshots\Screenshot (16).png"
+
 **Business Objective**
 
 To build an insightful and interactive Power BI dashboard that visualizes:
