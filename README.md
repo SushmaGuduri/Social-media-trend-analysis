@@ -95,7 +95,8 @@ Hashtags significantly amplified reach, especially when tailored to platform-spe
 
 Regional Preferences were decoded, with countries like Brazil and Japan showing strong performance on TikTok and Instagram.
 
-Impact
+**Impact**
+
 This project provided marketers and content creators with quantifiable insights into:
 
 Platform behaviors
