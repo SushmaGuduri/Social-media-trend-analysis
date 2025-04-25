@@ -3,7 +3,8 @@
 **Overview**
 This project focuses on understanding user engagement across major social media platforms—YouTube, TikTok, Instagram, Twitter, and Facebook. By analyzing over 5,000 social media posts, this project aims to uncover trends in engagement, content preferences, and regional impact, empowering brands and content creators to make data-driven decisions about content strategy and digital marketing.
 
-"C:\Users\sushm\Pictures\Screenshots\Screenshot (16).png"
+
+![Screenshot (16)](https://github.com/user-attachments/assets/b965e84a-070a-421d-b098-6a514f6dfe97)
 
 **Business Objective**
 
